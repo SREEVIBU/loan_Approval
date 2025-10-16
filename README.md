@@ -1,6 +1,6 @@
 # Loan Approval Prediction (Streamlit)
 
-#APP LINK :-https://loanapproval-hxvknp8j8yu2myvqfns8qw.streamlit.app/
+#APP LINK :-https://loanapproval-f4rmprozfpxjdj52yrmglu.streamlit.app/
 
 This repository contains a small Streamlit app that predicts loan approval probability using a Random Forest model. The app was created by extracting the code from `loan_approval.ipynb` and wiring it to a web UI.
 
